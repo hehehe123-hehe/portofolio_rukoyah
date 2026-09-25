@@ -1,4 +1,4 @@
-Data Entry Practice Project
+[Data Entry Practice Project](https://azharulrafy.com/data-entry-projects)
 
 Practice project based on Azharul Rafy's "Data Entry Practice Projects" brief — a set of sample tasks designed to demonstrate common data entry skills for a portfolio.
 
