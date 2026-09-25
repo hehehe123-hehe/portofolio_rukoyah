@@ -32,13 +32,13 @@ I enjoy turning messy spreadsheets and raw records into clean, reliable systems 
 ### 📊 Financial Tracking Workbook
 Built a three-sheet Excel workbook to track and reconcile all transactions for a home renovation project — covering budgeting, expense logging, and summary reporting.
 
-### 🏫 SPMB Jawa Barat Data Scraper
+### 🏫 [SPMB Jawa Barat Data Scraper](https://github.com/hehehe123-hehe/spmb-jabar-repo.git)
 A Python project (Google Colab) that scrapes the public SPMB Jawa Barat school admissions API to collect and structure school admissions data.
 
-### 🧮 Advanced Excel Practice (XL-Test)
+### 🧮 [Advanced Excel Practice (XL-Test)](https://github.com/hehehe123-hehe/excel_training.git)
 Ongoing practice and documentation of advanced Excel formulas via BelajarExcel.id's XL-Test challenges, tracked and shared on GitHub.
 
-### 📈 Churn Prediction (Practice Project)
+### 📈 [Churn Prediction (Practice Project)](https://github.com/hehehe123-hehe/apple-retail-sql-analysis.git)
 Built a churn prediction model (Random Forest) in Google Colab/Jupyter as a data analysis practice project, based on a business case study.
 
 ---
