@@ -23,14 +23,14 @@ I enjoy turning messy spreadsheets and raw records into clean, reliable systems 
 - Administrative record-keeping and documentation
 
 **Tools**
-- Google Colab, Google Sheets, Excel, GitHub, Notion
+- Google Colab, Google Sheets, Excel, GitHub, Notion, Looker
 
 ---
 
 ## 📂 Featured Projects
 
-### 📊 Financial Tracking Workbook
-Built a three-sheet Excel workbook to track and reconcile all transactions for a home renovation project — covering budgeting, expense logging, and summary reporting.
+### 📊 [Financial Tracking Workbook](https://docs.google.com/spreadsheets/d/1A-JyJ0JbecaFZcxJ33nLQ6ezWU_kkonVJ8epFHD3xTE/edit?usp=sharing)
+Built a three-sheet Excel workbook to track and reconcile all transactions for a home renovation project — covering budgeting, expense logging, and summary reporting. find my [dahsboard](https://datastudio.google.com/reporting/4e66a5ec-b623-45af-b768-be65e0993f93)
 
 ### 🏫 [SPMB Jawa Barat Data Scraper](https://github.com/hehehe123-hehe/spmb-jabar-repo.git)
 A Python project (Google Colab) that scrapes the public SPMB Jawa Barat school admissions API to collect and structure school admissions data.
