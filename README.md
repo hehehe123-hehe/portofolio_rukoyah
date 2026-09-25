@@ -23,7 +23,7 @@ I enjoy turning messy spreadsheets and raw records into clean, reliable systems 
 - Administrative record-keeping and documentation
 
 **Tools**
-- Google Colab, Google Sheets, Excel, GitHub, Notion, Looker
+- Google Colab, Google Sheets, Excel, GitHub, [Notion](https://app.notion.com/p/Portofolio-d5bfb23026f58329a7080187d8e5e0b1?source=copy_link), Looker, [Power BI](https://github.com/hehehe123-hehe/power_bi_wise.git)
 
 ---
 
