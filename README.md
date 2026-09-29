@@ -51,4 +51,6 @@ Built a churn prediction model (Random Forest) in Google Colab/Jupyter as a data
 
 ---
 
-*Open to remote Data Entry, Data Analyst, and Budgeting/Admin roles.*
+*Still learning, still building — one spreadsheet, one dataset, one honest answer at a time.*
+
+📌 You can also check out my job simulations here: [Data Analytics](Data_analytic)
