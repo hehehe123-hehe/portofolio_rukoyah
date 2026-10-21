@@ -48,6 +48,7 @@ Built a churn prediction model (Random Forest) in Google Colab/Jupyter as a data
 - Google Business Intelligence Certificate — Coursera
 - Google UX Design Certificate — Coursera
 - Finance for Non-Financial Professionals — Coursera
+- Excel [Testdome](www.testdome.com/certificates/afd77a5b79d4477fad6a9f9ff6965d96)
 
 ---
 
