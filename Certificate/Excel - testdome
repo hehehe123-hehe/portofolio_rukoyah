@@ -1,0 +1,14 @@
+<a href="https://www.testdome.com/certificates/afd77a5b79d4477fad6a9f9ff6965d96" class="testdome-certificate-stamp gold">
+            <span class="testdome-certificate-name">SITI RUKOYAH AL M...</span>
+            <span class="testdome-certificate-test-name">MS Excel</span>
+            <span class="testdome-certificate-card-logo">TestDome<br>Certificate</span>
+        </a>
+        <script>
+            var stylesheet = "https://www.testdome.com/content/certificates/embed.css";
+            link = document.createElement("link");
+            link.href = stylesheet;
+            link.type = "text/css";
+            link.rel = "stylesheet";
+            link.media = "screen,print";
+            document.getElementsByTagName("head")[0].appendChild(link);
+        </script>
